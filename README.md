@@ -50,5 +50,3 @@ This is a Telegram bot that streams videos from an API to a live stream URL. It 
 ## License
 
 This project is licensed under the MIT License.
-
-Let me 知道如果你需要对 README 做任何修改或添加。
